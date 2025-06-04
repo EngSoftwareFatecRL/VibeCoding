@@ -1,5 +1,5 @@
 # Roteiro de Atividade – **Vibe Coding**
-## Criando um *To‑Do List* com Gemini e Prompts
+## Criando um *To‑Do List* com Gemini (ou outra IA)  e Prompts
 
 ### Visão Geral
 - **Ferramenta principal:** versão gratuita do **Gemini** (gemini.google.com)  
@@ -18,7 +18,7 @@
 
 ## Materiais Necessários
 - Computador com acesso à internet  
-- Acesso à versão gratuita do **Gemini** para o grupo  
+- Acesso à versão gratuita do **Gemini** para o grupo  (**podem ser usada outra IA)
 - Editor de texto (VS Code, Sublime, Bloco de Notas…)  
 - Navegador web para testes  
 - Conta no **GitHub** (ao menos um membro por grupo)  
@@ -82,6 +82,8 @@ git remote add origin https://github.com/<usuario>/<repo>.git
 git push -u origin main
 ```
 ---
+### b) Publicar o site criado online (opcional)
+Utlize algum serviço de nuvem para disponibilizar uma versão online do site. Sugestão ***Git Pages**
 
 ### 5 ▸ Reflexão & Entrega Final 
 - **Discussão interna**: vantagens, desafios, qualidade do código gerado, papel do Git.  
