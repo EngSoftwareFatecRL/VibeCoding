@@ -5,7 +5,7 @@
 - **Ferramenta principal:** versão gratuita do **Gemini** (gemini.google.com)  
 - **Entregáveis:**  
   - Código‑fonte publicado em repositório público no GitHub  
-  - Documento **PROMPTS.md** com os principais prompts e respostas do Gemini  
+  - Documento **PROMPTS.md** com os principais prompts 
 
 ### Objetivos de Aprendizagem
 1. Utilizar IA generativa (Gemini) como ferramenta *Low‑Code* para construir uma aplicação web funcional.  
